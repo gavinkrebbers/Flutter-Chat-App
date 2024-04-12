@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162900631959",
+    "project_id": "chatroom3-52e32",
+    "storage_bucket": "chatroom3-52e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162900631959:android:4f36a11370dd83423124d2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chatroom_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162900631959-nnm88hd2o7rid3rmgm5bll6pg98va797.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMPiVlzThoKDr5-ToaUo-fYntSfVdZ-oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162900631959-nnm88hd2o7rid3rmgm5bll6pg98va797.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
